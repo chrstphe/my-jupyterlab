@@ -1,0 +1,8 @@
+xgboost
+avro
+pyarrow
+google-cloud-pubsub
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-bigquery-storage
+db-dtypes
