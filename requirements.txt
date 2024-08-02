@@ -10,4 +10,4 @@ pandas-gbq
 matplotlib
 gpt-magic
 langchain
-hubspot-api-python
+hubspot-api-client
